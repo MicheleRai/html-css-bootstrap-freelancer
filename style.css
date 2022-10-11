@@ -25,20 +25,38 @@
 .my-brown{
     background-color: #CCB2A3;
 }
+.my-white{
+    background-color: white;
+}
 main .avatar{
     width: 20%;
 }
-main .first hr{
-    background-color: white;
-    border-color: white;
+hr{
     border-width: 5px;
     border-radius: 10px;
     width: 50vw;
     opacity: 1;
 }
-main .first span{
+.white-hr{
+    background-color: white;
+    border-color: white;
+}
+main .stella span{
     padding:0 1rem ;
     font-size: 20px;
     top: 5%;
-    right: 43%;
+    right: 40%;
+}
+.custom-container{
+    width: 95vw;
+    margin: auto;
+}
+.custom-container-2{
+    width: 60vw;
+    margin: auto;
+}
+.second img{
+    width: 100%;
+    margin: 1rem 0;
+    border-radius: 5px;
 }
