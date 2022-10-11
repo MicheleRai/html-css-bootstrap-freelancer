@@ -25,3 +25,20 @@
 .my-brown{
     background-color: #CCB2A3;
 }
+main .avatar{
+    width: 20%;
+}
+main .first hr{
+    background-color: white;
+    border-color: white;
+    border-width: 5px;
+    border-radius: 10px;
+    width: 50vw;
+    opacity: 1;
+}
+main .first span{
+    padding:0 1rem ;
+    font-size: 20px;
+    top: 5%;
+    right: 43%;
+}
